@@ -1,0 +1,3 @@
+- 👋 Oi, meu nome é Pedro
+- 👀 Estou aqui para aprender e pesquisar sobre assuntos como Linux, redes e cybersegurança
+- 🌱 Atualmente estudando Redes e Cybersegurança
